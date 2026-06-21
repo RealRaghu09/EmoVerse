@@ -250,7 +250,7 @@ A 1D Convolutional Neural Network (CNN) was used for emotion classification.
 
 | Metric        | Value  |
 | ------------- | ------ |
-| Test Accuracy | 68.89% |
+| Test Accuracy | 82.87% |
 
 ---
 
